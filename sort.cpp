@@ -2,7 +2,7 @@
 #include <functional>
 #include <iostream>
 using namespace std;
-
+//那珂ちゃんのファンやめます
 int main() {
     int aiTable[5] = { 3, 2, 6, -2, 2 };            // 配列を用意する。
     sort(aiTable, aiTable + 5, greater<int>());  // プレディケート greater で逆順にソートする。
